@@ -2,6 +2,8 @@
 
 > Guided breathing pacers for React
 
+![Screenshot](https://cdn-reibjvbyi.now.sh/guided-breathing-screenshot.png)
+
 [![NPM](https://img.shields.io/npm/v/guided-breathing.svg)](https://www.npmjs.com/package/guided-breathing)
 
 ## Install
