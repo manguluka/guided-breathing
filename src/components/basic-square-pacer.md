@@ -1,0 +1,5 @@
+Defaults
+
+```js
+<BasicSquarePacer />
+```
