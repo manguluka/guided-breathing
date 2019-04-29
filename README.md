@@ -32,4 +32,4 @@ See [guided-breathing docs](https://guided-breathing-docs.lilo.now.sh) for more 
 
 ## License
 
-MIT © [manguluka](https://github.com/manguluka)
+MIT © [Luka Kakia](https://github.com/manguluka)
