@@ -1,15 +1,15 @@
-# guided-breathing
+# @ondakuta/guided-breathing-react
 
-> Guided breathing pacers for React
+> Guided breathing pacer components for React
 
 ![Screenshot](https://cdn-reibjvbyi.now.sh/guided-breathing-screenshot.png)
 
-[![NPM](https://img.shields.io/npm/v/guided-breathing.svg)](https://www.npmjs.com/package/guided-breathing)
+[![NPM](https://img.shields.io/npm/v/@ondakuta/guided-breathing-react.svg)](https://www.npmjs.com/package/@ondakuta/guided-breathing-react)
 
 ## Install
 
 ```bash
-npm install --save guided-breathing
+npm install --save @ondakuta/guided-breathing-react
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install --save guided-breathing
 ```jsx
 import React, { Component } from "react";
 
-import { BasicCirclePacer } from "guided-breathing";
+import { BasicCirclePacer } from "@ondakuta/guided-breathing-react";
 
 class Example extends Component {
   render() {
@@ -28,7 +28,7 @@ class Example extends Component {
 
 ## API
 
-See [guided-breathing docs](https://guided-breathing-docs.lilo.now.sh) for more examples and documentation
+See [guided-breathing docs](https://guided-breathing-react-docs.lilo.now.sh) for more examples and documentation
 
 ## License
 

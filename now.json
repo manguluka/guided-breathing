@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "guided-breathing-docs",
+    "name": "guided-breathing-react-docs",
     "builds": [
         { "src": "package.json", "use": "@now/static-build", "config": { "distDir": "styleguide" } }
     ]

@@ -1,7 +1,7 @@
 {
   "name": "@ondakuta/guided-breathing-react",
   "version": "0.0.0",
-  "description": "Guided breathing pacers for React",
+  "description": "Guided breathing pacer components for React",
   "author": "Luka Kakia",
   "license": "MIT",
   "repository": "manguluka/guided-breathing-react",
